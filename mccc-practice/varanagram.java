@@ -1,2 +1,0 @@
-//a variation on anagrams
-
